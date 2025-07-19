@@ -7,3 +7,6 @@ Deye CAN BUS monitoring application, USB drivers included in release.
 Requires one of these these devices:
   - USBCAN
   - CANALYST-II
+
+## Using the non client version to modify battery parameters, would void your warranty according to DEYE engineer.
+## Use at own risk!
